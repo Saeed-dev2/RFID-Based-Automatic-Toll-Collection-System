@@ -1,6 +1,5 @@
 # RFID-Based Access Control System with Servo Lock
 
-
 ## Overview
 This project implements an RFID-based access control system using an **MFRC522 RFID reader**, an **OLED display (SSD1306)**, and a **servo motor** for locking and unlocking mechanisms. When an authorized RFID card is scanned, access is granted, and the servo unlocks. If an unauthorized card is scanned, access is denied.
 
